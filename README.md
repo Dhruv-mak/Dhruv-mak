@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Makwana</h1>
 <h3 align="center">Software Engineer: Magically Turning Ideas into Error Messages.</h3>
-
+<p align="center"><img width="50%" src="https://media1.tenor.com/m/kxZgL7zPf0EAAAAC/hello-world-seytonic.gif"></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv-mak" alt="dhruv-mak" /></a> </p>
 
 - 📫 How to reach me **dhruv.makwana5004@gmail.com**
